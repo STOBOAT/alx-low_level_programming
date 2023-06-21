@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
-*main - Entry point
+*print_alphabet - Prints out the alphabet, in lowercase
 *
-*Description: Prints out the alphabet, in lowercase
 *Return: void
 */
-
 void print_alphabet(void)
 {
 	int (l);
