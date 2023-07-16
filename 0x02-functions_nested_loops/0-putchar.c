@@ -1,12 +1,12 @@
 #include "main.h"
+
 /**
   *main - Entry
-  *Description: prints out _putchar
+  *Description: Prints out "_putchar"
   *Return: 0 (success)
   */
 
 int main(void)
-
 {
 	_putchar('_');
 	_putchar('p');
